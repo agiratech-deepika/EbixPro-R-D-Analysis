@@ -1,0 +1,201 @@
+seller_id,product_id,product_name,category,bundle_id,bundle_type,quantity_threshold,price_per_unit,stock_availability,seasonality,competitor_price,customer_demand,historical_discount
+S10,P001,Laptop,Electronics,B41,Office Setup,3,839.8,15,Medium,885.48,266,5
+S13,P002,Keyboard,Electronics,B33,Buying 2+ same items,3,1682.02,19,Medium,1523.21,110,15
+S1,P003,Desk,Office,B30,Office Setup,2,870.85,117,Low,801.46,144,15
+S7,P004,File Cabinet,Office,B35,Predefined Bundle,5,4899.45,35,High,4655.91,335,0
+S18,P005,Monitor,Electronics,B35,Fashion Combo,5,2679.46,16,Low,2371.0,380,5
+S6,P006,Headphones,Electronics,B9,Predefined Bundle,5,979.94,164,High,874.05,261,10
+S9,P007,Monitor,Electronics,B42,Fashion Combo,5,2298.76,43,Medium,2648.11,407,0
+S11,P008,Chair,Office,B22,Predefined Bundle,2,773.33,381,High,857.5,193,20
+S20,P009,Lamp,Office,B7,Office Setup,3,814.72,304,High,828.96,234,5
+S20,P010,Keyboard,Electronics,B6,Fashion Combo,5,3645.95,162,High,3376.58,294,10
+S14,P011,Monitor,Electronics,B5,Predefined Bundle,3,824.62,176,Low,864.94,494,5
+S12,P012,Jeans,Fashion,B9,Fashion Combo,5,950.65,383,Low,1044.99,187,20
+S2,P013,Headphones,Electronics,B42,Buying 2+ same items,3,4380.08,58,Medium,4708.17,183,20
+S5,P014,Lamp,Office,B50,Office Setup,3,3799.11,455,Medium,4120.52,176,10
+S16,P015,Headphones,Electronics,B16,Office Setup,5,4147.02,132,Medium,4415.21,260,10
+S16,P016,Chair,Office,B50,Office Setup,2,1770.17,459,Medium,1980.58,284,5
+S1,P017,Shirt,Fashion,B34,Office Setup,2,311.07,11,Low,262.54,115,5
+S15,P018,Shirt,Fashion,B47,Buying 2+ same items,3,2189.85,54,High,1980.3,445,5
+S15,P019,Jeans,Fashion,B44,Office Setup,5,713.73,238,Medium,703.54,178,10
+S18,P020,Jeans,Fashion,B36,Predefined Bundle,5,3890.47,65,High,4332.07,232,10
+S3,P021,Mouse,Electronics,B48,Buying 2+ same items,2,524.32,15,Medium,522.43,477,5
+S1,P022,Shoes,Fashion,B35,Predefined Bundle,2,4799.31,19,High,5308.38,352,10
+S17,P023,Jeans,Fashion,B49,Office Setup,5,547.94,399,Medium,458.21,73,0
+S17,P024,Watch,Fashion,B45,Fashion Combo,2,3868.43,471,Medium,3604.28,122,20
+S20,P025,Whiteboard,Office,B43,Office Setup,5,230.37,347,High,189.11,230,5
+S7,P026,Lamp,Office,B21,Buying 2+ same items,3,1182.47,62,Low,1274.19,450,0
+S6,P027,Keyboard,Electronics,B1,Fashion Combo,2,4697.87,272,Medium,3853.23,64,15
+S15,P028,Keyboard,Electronics,B26,Fashion Combo,2,2588.99,200,High,2577.82,357,5
+S18,P029,Jacket,Fashion,B29,Buying 2+ same items,5,3612.91,256,Low,4044.29,411,20
+S15,P030,File Cabinet,Office,B1,Fashion Combo,5,4622.51,47,High,3849.3,93,15
+S19,P031,Laptop,Electronics,B6,Buying 2+ same items,3,2761.39,163,Low,2488.47,278,5
+S15,P032,Watch,Fashion,B39,Office Setup,5,433.39,59,High,448.99,456,10
+S13,P033,Shirt,Fashion,B24,Fashion Combo,5,2463.08,138,High,2367.57,253,0
+S17,P034,Whiteboard,Office,B3,Fashion Combo,5,4808.8,358,High,4076.39,217,5
+S19,P035,Keyboard,Electronics,B46,Buying 2+ same items,2,241.32,476,Low,201.28,113,5
+S15,P036,Laptop,Electronics,B45,Predefined Bundle,5,1724.79,493,Medium,1859.57,152,15
+S6,P037,Chair,Office,B11,Predefined Bundle,5,1543.13,492,Medium,1705.47,234,5
+S17,P038,File Cabinet,Office,B47,Fashion Combo,3,3129.28,460,High,2552.17,290,5
+S7,P039,Mouse,Electronics,B32,Fashion Combo,2,2611.26,222,Low,2499.04,467,20
+S7,P040,Chair,Office,B48,Fashion Combo,2,2711.62,394,High,3129.93,212,15
+S16,P041,Shoes,Fashion,B22,Fashion Combo,2,1996.24,185,Medium,2169.88,307,10
+S5,P042,Desk,Office,B11,Office Setup,2,3228.61,30,Medium,3521.82,62,5
+S9,P043,Lamp,Office,B34,Buying 2+ same items,5,4330.43,267,Low,4216.76,148,10
+S7,P044,Desk,Office,B49,Fashion Combo,5,2492.67,224,High,2700.54,405,0
+S8,P045,Jacket,Fashion,B32,Fashion Combo,3,1837.51,196,Medium,1805.33,435,0
+S5,P046,Jacket,Fashion,B9,Fashion Combo,3,485.05,327,Low,436.1,479,20
+S7,P047,File Cabinet,Office,B47,Fashion Combo,5,542.82,240,Medium,449.43,432,20
+S1,P048,Mouse,Electronics,B20,Fashion Combo,3,1037.4,310,High,888.64,273,10
+S11,P049,Desk,Office,B11,Office Setup,5,404.58,131,High,422.86,298,0
+S18,P050,Laptop,Electronics,B41,Office Setup,3,1357.76,126,Medium,1436.63,449,10
+S11,P051,Monitor,Electronics,B47,Office Setup,3,3942.94,290,High,3736.08,473,0
+S11,P052,Mouse,Electronics,B10,Predefined Bundle,5,178.94,201,High,180.22,430,15
+S6,P053,Laptop,Electronics,B15,Predefined Bundle,5,2361.17,420,High,2355.32,443,15
+S2,P054,Monitor,Electronics,B29,Predefined Bundle,2,1629.02,385,High,1441.74,176,0
+S7,P055,Desk,Office,B11,Office Setup,2,315.49,416,Medium,322.71,159,10
+S3,P056,Keyboard,Electronics,B29,Fashion Combo,2,1454.44,419,High,1665.83,66,20
+S4,P057,Mouse,Electronics,B49,Buying 2+ same items,2,2749.08,242,Medium,2431.08,316,0
+S18,P058,Lamp,Office,B13,Buying 2+ same items,2,1977.77,433,High,1902.65,219,20
+S14,P059,Watch,Fashion,B7,Predefined Bundle,3,982.85,108,Medium,929.03,314,10
+S3,P060,Whiteboard,Office,B42,Buying 2+ same items,3,3890.0,170,Medium,4270.41,470,15
+S19,P061,File Cabinet,Office,B50,Fashion Combo,5,1308.34,54,High,1119.47,211,15
+S16,P062,Jeans,Fashion,B29,Predefined Bundle,5,527.92,111,Low,482.33,61,20
+S10,P063,Jacket,Fashion,B37,Buying 2+ same items,3,1531.58,81,High,1331.28,249,15
+S17,P064,File Cabinet,Office,B48,Fashion Combo,3,4706.01,304,High,5564.24,410,10
+S6,P065,Headphones,Electronics,B35,Office Setup,5,3025.21,416,Medium,3309.52,414,10
+S3,P066,Monitor,Electronics,B6,Buying 2+ same items,5,1586.87,90,High,1343.68,121,0
+S3,P067,Keyboard,Electronics,B33,Office Setup,3,2965.95,13,Low,2492.1,379,0
+S19,P068,Monitor,Electronics,B12,Buying 2+ same items,2,2379.0,203,Medium,2326.28,191,10
+S16,P069,Jeans,Fashion,B29,Office Setup,2,2326.99,123,Low,2230.01,484,0
+S7,P070,Shoes,Fashion,B44,Office Setup,5,328.98,166,Medium,350.72,313,5
+S8,P071,Chair,Office,B35,Buying 2+ same items,5,2122.83,399,Medium,2505.07,101,20
+S19,P072,Shoes,Fashion,B35,Buying 2+ same items,2,2437.08,319,Low,2332.36,183,0
+S15,P073,Jacket,Fashion,B49,Predefined Bundle,5,4887.65,411,High,4843.3,471,0
+S18,P074,Laptop,Electronics,B13,Buying 2+ same items,2,2140.42,277,High,2266.45,300,15
+S7,P075,Shirt,Fashion,B48,Fashion Combo,2,359.36,169,Low,310.89,213,15
+S10,P076,Chair,Office,B10,Buying 2+ same items,2,3278.47,228,Medium,3902.75,407,5
+S19,P077,Lamp,Office,B23,Fashion Combo,3,4284.61,272,High,4569.3,135,0
+S17,P078,Chair,Office,B14,Buying 2+ same items,5,1995.65,183,High,1949.07,95,15
+S15,P079,Jacket,Fashion,B32,Fashion Combo,2,3016.01,411,Medium,3485.47,216,15
+S7,P080,Mouse,Electronics,B10,Office Setup,2,2013.0,38,Low,1963.95,453,0
+S1,P081,Watch,Fashion,B44,Buying 2+ same items,5,944.79,173,Low,972.75,332,10
+S2,P082,Mouse,Electronics,B5,Office Setup,2,118.49,146,Medium,117.81,499,5
+S2,P083,File Cabinet,Office,B9,Buying 2+ same items,3,1326.06,243,High,1101.42,267,15
+S17,P084,Laptop,Electronics,B26,Fashion Combo,2,1717.03,49,High,1850.55,292,20
+S19,P085,Desk,Office,B44,Fashion Combo,3,1938.76,90,High,2065.59,446,20
+S19,P086,Headphones,Electronics,B45,Fashion Combo,5,755.38,399,High,636.51,187,10
+S17,P087,Monitor,Electronics,B39,Buying 2+ same items,2,3144.09,79,Low,3746.31,252,0
+S14,P088,Headphones,Electronics,B32,Buying 2+ same items,5,2447.14,37,Medium,2871.47,69,15
+S14,P089,Mouse,Electronics,B22,Predefined Bundle,3,638.0,494,Medium,518.84,393,10
+S12,P090,Headphones,Electronics,B31,Buying 2+ same items,5,3634.65,91,Medium,3249.03,403,10
+S16,P091,File Cabinet,Office,B15,Office Setup,2,1579.41,114,Medium,1326.43,134,15
+S5,P092,Shirt,Fashion,B29,Office Setup,2,1626.08,38,High,1663.03,461,15
+S2,P093,Shirt,Fashion,B17,Fashion Combo,3,4456.91,88,Low,3725.69,415,10
+S16,P094,Mouse,Electronics,B20,Office Setup,2,2599.96,163,High,3006.66,344,15
+S8,P095,Mouse,Electronics,B21,Buying 2+ same items,3,927.07,183,Low,967.13,325,0
+S6,P096,Lamp,Office,B28,Predefined Bundle,5,4281.07,329,Medium,4596.38,374,10
+S2,P097,Jeans,Fashion,B21,Buying 2+ same items,2,4574.82,246,High,4562.7,447,5
+S10,P098,Monitor,Electronics,B39,Predefined Bundle,2,3133.78,424,Low,3128.91,233,10
+S4,P099,Whiteboard,Office,B37,Fashion Combo,5,4985.7,124,Low,4849.55,326,0
+S12,P100,Monitor,Electronics,B46,Predefined Bundle,3,911.89,283,Low,999.36,194,5
+S4,P101,Keyboard,Electronics,B24,Predefined Bundle,3,3198.91,164,Low,2954.26,323,0
+S13,P102,Shirt,Fashion,B40,Predefined Bundle,2,1636.82,276,Low,1409.7,84,5
+S7,P103,Jacket,Fashion,B50,Office Setup,3,4834.07,420,High,4175.97,271,15
+S14,P104,Keyboard,Electronics,B19,Office Setup,5,2515.43,225,High,2604.2,92,15
+S10,P105,File Cabinet,Office,B49,Fashion Combo,2,2158.81,52,Medium,1902.31,198,15
+S4,P106,Chair,Office,B46,Office Setup,3,140.02,387,Low,129.07,190,20
+S15,P107,Shirt,Fashion,B31,Predefined Bundle,3,521.92,171,High,560.68,66,10
+S1,P108,Jacket,Fashion,B19,Buying 2+ same items,3,3921.1,171,High,4642.37,343,20
+S7,P109,Shirt,Fashion,B1,Buying 2+ same items,5,3546.68,423,Medium,3714.98,209,20
+S11,P110,Jeans,Fashion,B21,Predefined Bundle,3,1516.81,210,Medium,1427.05,426,0
+S5,P111,Headphones,Electronics,B41,Buying 2+ same items,5,2246.85,20,Medium,2240.75,453,5
+S8,P112,Lamp,Office,B34,Predefined Bundle,5,3179.61,314,Low,3808.13,101,10
+S7,P113,Shoes,Fashion,B2,Predefined Bundle,3,2052.54,252,High,1924.82,110,5
+S8,P114,Shoes,Fashion,B34,Fashion Combo,3,4641.23,124,Low,4443.35,256,10
+S10,P115,File Cabinet,Office,B34,Office Setup,2,1751.24,370,High,1626.13,304,20
+S10,P116,Shirt,Fashion,B14,Office Setup,5,3106.43,169,Medium,2527.95,265,20
+S17,P117,Shirt,Fashion,B16,Office Setup,3,1739.09,315,High,1695.85,125,5
+S17,P118,Whiteboard,Office,B8,Office Setup,5,3743.6,217,High,3000.43,149,15
+S10,P119,Headphones,Electronics,B35,Buying 2+ same items,3,3511.7,233,Medium,3033.67,433,15
+S15,P120,Shoes,Fashion,B13,Office Setup,2,3504.0,365,High,3109.11,401,10
+S17,P121,Keyboard,Electronics,B12,Buying 2+ same items,5,4905.31,282,Medium,4621.33,417,5
+S12,P122,Chair,Office,B19,Office Setup,3,1412.77,459,Low,1485.29,105,5
+S3,P123,Jacket,Fashion,B31,Predefined Bundle,3,4151.04,338,High,3732.59,496,10
+S20,P124,File Cabinet,Office,B24,Buying 2+ same items,3,2276.07,185,High,2617.85,458,10
+S16,P125,Jeans,Fashion,B10,Buying 2+ same items,3,3640.07,251,Low,3879.01,357,0
+S7,P126,Watch,Fashion,B9,Fashion Combo,3,3933.69,306,High,3949.99,300,0
+S16,P127,Shoes,Fashion,B23,Predefined Bundle,2,4837.78,343,Medium,5097.58,405,5
+S5,P128,Desk,Office,B31,Predefined Bundle,3,1222.53,300,Low,1157.23,221,0
+S1,P129,Laptop,Electronics,B33,Predefined Bundle,5,3863.35,225,Low,4387.19,162,10
+S13,P130,Mouse,Electronics,B21,Buying 2+ same items,2,4970.34,375,High,4192.39,315,0
+S18,P131,Watch,Fashion,B19,Office Setup,5,4845.16,473,Medium,5694.71,238,15
+S13,P132,Whiteboard,Office,B13,Predefined Bundle,2,1627.51,233,Medium,1467.43,110,10
+S10,P133,Mouse,Electronics,B19,Predefined Bundle,5,1251.5,144,High,1324.98,188,15
+S17,P134,Mouse,Electronics,B28,Buying 2+ same items,3,4681.04,179,High,4297.29,295,20
+S2,P135,Mouse,Electronics,B33,Office Setup,3,4571.91,61,High,4601.86,308,5
+S14,P136,Laptop,Electronics,B42,Fashion Combo,5,1122.53,166,Low,1197.92,291,10
+S16,P137,Watch,Fashion,B37,Buying 2+ same items,5,2799.68,450,Medium,2271.04,156,5
+S14,P138,Jeans,Fashion,B29,Buying 2+ same items,5,1178.09,194,Medium,1073.08,60,20
+S16,P139,Whiteboard,Office,B28,Buying 2+ same items,3,3641.96,500,Low,4335.67,414,20
+S2,P140,Watch,Fashion,B17,Fashion Combo,3,3988.89,129,High,4768.52,336,15
+S4,P141,Shirt,Fashion,B43,Buying 2+ same items,2,3006.82,485,Low,3139.35,452,10
+S13,P142,Mouse,Electronics,B28,Predefined Bundle,2,1972.62,124,High,1994.38,284,0
+S14,P143,Laptop,Electronics,B5,Fashion Combo,2,3204.73,135,Medium,3447.55,462,5
+S11,P144,File Cabinet,Office,B8,Predefined Bundle,2,4903.63,187,Low,5506.4,324,0
+S13,P145,Lamp,Office,B8,Fashion Combo,5,2342.79,345,Medium,2412.79,417,0
+S13,P146,File Cabinet,Office,B12,Office Setup,3,1964.76,11,Low,2052.92,491,10
+S13,P147,Mouse,Electronics,B47,Office Setup,2,4819.54,277,Medium,4574.75,425,10
+S17,P148,Jacket,Fashion,B7,Office Setup,3,585.9,231,High,621.53,437,15
+S4,P149,Chair,Office,B8,Predefined Bundle,2,3981.74,472,High,4578.28,328,0
+S20,P150,Keyboard,Electronics,B18,Office Setup,5,2869.02,11,Low,2517.94,268,15
+S14,P151,Monitor,Electronics,B44,Fashion Combo,2,3267.3,125,Low,3237.09,194,15
+S15,P152,Lamp,Office,B47,Office Setup,5,549.71,485,High,529.68,426,20
+S16,P153,Headphones,Electronics,B10,Predefined Bundle,2,3137.09,325,Medium,3507.69,205,10
+S18,P154,Keyboard,Electronics,B36,Office Setup,3,651.5,282,High,678.98,121,10
+S6,P155,Shoes,Fashion,B14,Office Setup,3,2474.4,177,Low,2899.56,250,5
+S5,P156,Chair,Office,B22,Office Setup,2,3590.41,478,High,3130.21,368,20
+S1,P157,Desk,Office,B41,Fashion Combo,5,3383.92,295,High,3182.75,326,10
+S9,P158,File Cabinet,Office,B32,Fashion Combo,5,2280.23,76,High,1860.03,76,10
+S15,P159,Lamp,Office,B10,Buying 2+ same items,5,3120.7,482,High,2734.82,197,10
+S11,P160,Shirt,Fashion,B12,Predefined Bundle,3,1933.89,326,Medium,2156.33,271,0
+S11,P161,Watch,Fashion,B38,Buying 2+ same items,2,1197.6,399,Medium,1130.8,296,20
+S3,P162,Jeans,Fashion,B15,Buying 2+ same items,3,4143.03,112,High,4480.59,262,15
+S12,P163,Headphones,Electronics,B5,Predefined Bundle,3,2676.85,77,High,3021.24,431,0
+S17,P164,Laptop,Electronics,B8,Buying 2+ same items,2,3909.2,238,High,4687.56,345,5
+S1,P165,Keyboard,Electronics,B1,Office Setup,5,2553.95,77,Low,2655.13,418,15
+S2,P166,Headphones,Electronics,B46,Buying 2+ same items,3,1353.35,487,Low,1249.6,422,10
+S3,P167,Chair,Office,B41,Buying 2+ same items,2,4559.04,497,Low,4865.69,407,10
+S8,P168,Keyboard,Electronics,B41,Predefined Bundle,2,1632.47,53,High,1704.91,202,15
+S12,P169,Chair,Office,B27,Buying 2+ same items,2,1917.44,249,Medium,1967.91,267,0
+S16,P170,Shoes,Fashion,B27,Fashion Combo,2,1623.32,377,High,1783.57,465,15
+S7,P171,Chair,Office,B6,Office Setup,3,4880.03,317,Medium,5616.0,317,20
+S16,P172,Mouse,Electronics,B36,Office Setup,2,1015.17,166,Medium,1034.89,129,15
+S20,P173,Headphones,Electronics,B4,Predefined Bundle,3,4481.57,249,Low,4951.07,206,5
+S1,P174,Whiteboard,Office,B34,Fashion Combo,3,3397.42,331,Low,3458.73,276,0
+S8,P175,Headphones,Electronics,B30,Fashion Combo,5,4303.01,221,Medium,4282.19,286,15
+S11,P176,Mouse,Electronics,B15,Predefined Bundle,5,233.05,299,Medium,244.09,320,10
+S14,P177,Whiteboard,Office,B43,Office Setup,3,4815.04,250,Medium,5389.3,287,0
+S5,P178,Shoes,Fashion,B45,Buying 2+ same items,5,1403.55,362,Low,1264.74,423,20
+S17,P179,Chair,Office,B44,Fashion Combo,3,217.06,152,High,225.75,477,15
+S1,P180,Shirt,Fashion,B30,Office Setup,5,2111.23,100,Medium,1916.7,161,10
+S12,P181,Jeans,Fashion,B30,Buying 2+ same items,2,4399.91,313,Medium,5099.69,167,20
+S5,P182,Laptop,Electronics,B35,Predefined Bundle,3,3087.44,343,Low,2948.41,154,20
+S7,P183,Jeans,Fashion,B33,Buying 2+ same items,2,3570.63,318,Low,4245.47,452,15
+S6,P184,Laptop,Electronics,B29,Predefined Bundle,2,1669.7,116,Medium,1531.81,443,15
+S7,P185,Mouse,Electronics,B18,Fashion Combo,3,2679.9,494,Medium,2433.83,184,10
+S18,P186,Chair,Office,B24,Fashion Combo,3,2454.15,96,Medium,2460.29,273,10
+S2,P187,Mouse,Electronics,B17,Office Setup,2,2401.8,435,High,2198.14,464,10
+S18,P188,Watch,Fashion,B48,Fashion Combo,3,199.21,244,Medium,167.06,472,15
+S18,P189,Watch,Fashion,B10,Fashion Combo,3,469.25,332,High,461.19,407,15
+S20,P190,Monitor,Electronics,B27,Buying 2+ same items,3,3428.49,391,Low,2979.88,393,0
+S6,P191,Whiteboard,Office,B50,Predefined Bundle,3,2097.25,367,Low,2264.15,176,5
+S7,P192,Jeans,Fashion,B41,Office Setup,3,2539.27,405,Low,2265.78,69,10
+S17,P193,Jacket,Fashion,B4,Buying 2+ same items,2,2112.14,215,Medium,1806.43,455,5
+S11,P194,Jacket,Fashion,B5,Predefined Bundle,5,367.15,280,Medium,403.9,55,10
+S2,P195,File Cabinet,Office,B49,Fashion Combo,2,691.52,86,Low,598.24,439,15
+S7,P196,Headphones,Electronics,B11,Buying 2+ same items,2,3132.34,35,Medium,2636.95,163,20
+S12,P197,Shirt,Fashion,B48,Buying 2+ same items,2,1814.4,381,High,1734.66,263,20
+S10,P198,Jacket,Fashion,B44,Fashion Combo,5,2815.24,329,High,2253.4,306,15
+S19,P199,Monitor,Electronics,B2,Fashion Combo,3,4454.94,277,Low,3661.16,452,20
+S19,P200,Lamp,Office,B11,Buying 2+ same items,2,741.65,139,Medium,839.75,263,10

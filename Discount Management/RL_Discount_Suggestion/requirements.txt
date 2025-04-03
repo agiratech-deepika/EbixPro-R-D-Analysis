@@ -1,0 +1,9 @@
+streamlit
+gym
+numpy
+pandas
+stable-baselines3
+shimmy>=2.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
