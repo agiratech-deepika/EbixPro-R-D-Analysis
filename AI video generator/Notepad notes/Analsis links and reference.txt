@@ -1,0 +1,19 @@
+AI video Generator 
+
+Full creation with API 
+URL to link 
+
+https://docs.creatify.ai/api-reference/introduction - documentation and pricing / https://app.creatify.ai/home - application link
+- generates scripts with 1000 words max
+- creates with avatar, without avatar 
+- able to choose sec of video
+- without watermark for 10 credits free, with watermark for 5 creadits
+- suggested more video to get of promotion with human talk without human, with avatar and without avatar also
+
+
+
+https://aiapp.vidnoz.com/video/index.html?openTab=urltovideo - Roshan suggestion
+https://app.pictory.ai/storyboard/articletovideo - wireframe suggestion but not getting good accuracy
+
+
+goku ai for open source link https://www.analyticsvidhya.com/blog/2025/02/goku-ai/ -- model yet to release
